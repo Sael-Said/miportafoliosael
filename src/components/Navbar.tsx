@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Menu, X, Home, User, Code, Briefcase, Mail } from 'lucide-react';
+import { Home, User, Code, Briefcase, Mail } from 'lucide-react';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
