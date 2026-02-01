@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+
 import { Github, Linkedin, Mail, ChevronDown, Facebook, MapPin, Briefcase, Award } from 'lucide-react';
 import sael from "../assets/yo.png";
 
