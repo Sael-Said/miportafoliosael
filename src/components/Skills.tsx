@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Layout, Server, Database, Code2 } from 'lucide-react';
 
 const Skills = () => {
